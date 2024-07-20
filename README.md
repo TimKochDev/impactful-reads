@@ -9,6 +9,9 @@ The following articles and books are the ones I found most impactful throughout 
 
 The sources below are ordered by the time I found and read them.
 
+Do not understand these sources as a learning guide for you!
+The goal of this repository is to enable me to revisit my most important sources and for others to understand the principles of my software engineering.
+
 ## Book "Dependency Injection" by Mark Seemann
 <!-- Found and read mid 2022 -->
 DI and IoC are mentioned in almost every tutorial about how to grow an application from beginner level to useful enterprise code.
