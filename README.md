@@ -1,13 +1,11 @@
-# significant-reads
-
-The following articles and books are the ones I found most significant throughout my software engineering career.
-"Significant" here means sources that:
+The following articles and books are the ones I found most impactful throughout my software engineering career.
+"Impactful" here means sources that:
 
 - I agree with
 - are not included in every single beginner tutorial on the web (and indeed mostly contradict them!)
 - helped me build _maintainable_ software
 
-Note that great books and posts might be excluded if I read them but already knew all their concepts from other sources (i.e. they were not significant). 
+Note that great books and posts might be excluded if I read them but already knew all their concepts from other sources (i.e. they had no _impact_). 
 
 Do not understand these sources as a learning guide for you!
 The goal of this repository is to enable me to revisit my most important sources and for others to understand the principles of my software engineering.
